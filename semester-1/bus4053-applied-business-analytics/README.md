@@ -20,6 +20,6 @@ Build a research-based persona that represents our team as aspiring health busin
 PowerPoint
 
 ## Persona
-![Persona](Persona.PNG)
+![Persona](persona.PNG)
 
 [Download slide (.pptx)](GBC_Student_Persona.pptx)
