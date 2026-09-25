@@ -16,7 +16,10 @@ Build a research-based persona that represents our team as aspiring health busin
 5. Designed the persona layout
 
 ## My role
-- [what you did]
+- Gathered team members' backgrounds, goals and challenges through a short survey and interviews
+- Wrote the persona's goals, pains and gains from the research findings
+- Mapped persona traits to BABOK underlying competencies
+- Designed the persona slide in PowerPoint
 
 ## Tools
 PowerPoint
